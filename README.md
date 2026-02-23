@@ -48,7 +48,7 @@ O projeto tem como objetivo conectar tutores de animais domésticos e rurais a s
 
 ## Links Importantes
 
-- **Figma:** https://www.figma.com/make/s3lbWT70Yi91sT5py4FOFP/MyIDPet-Mobile-Prototype
+- **Figma:** https://www.figma.com/make/s3IbWT70Yi91sT5py4FOFP/MyIDPet-Mobile-Prototype?t=qcsTHlTsqdygClY3-1&preview-route=%2Flogin
 - **dbdiagram.io:** https://dbdiagram.io/d/MyIDPet-Database-69925bc9bd82f5fce2c6794a
 - **Trello:** https://trello.com/invite/b/6990fe1171f4103624bd8525/ATTI6f34e9b294113ce74be9c22bb3cfb6fa9DD91A77/myidpet
 
